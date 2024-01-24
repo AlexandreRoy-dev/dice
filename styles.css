@@ -1,0 +1,20 @@
+.fbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+
+.rollbtn {
+  margin-top: 10px;
+}
+
+.dice {
+  margin-bottom: 20px;
+}
+
+#result {
+  width: 400px;
+  height: 200px;
+  background-color: red;
+}
